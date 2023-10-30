@@ -1,37 +1,42 @@
-html {
-    background-color: black;
+body {
+    background-color: #04000A;
 }
-
-h1 {
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-img {
-    width: 700px;
-    height: 600px;
-}
-
-header {
-    font-style: italic;
+.title {
+    display: block;
+    margin: 0%auto;
+    text-align: center;
+    font-family: 'Bungee Spice', sans-serif;
     font-size: larger;
-    color: white;
 }
 
-h2 {
-    color: red;
+.image {
+    display: block;
+    margin: 0%auto;
+    text-align: center;
+ }
+
+.header {
+    display: block;
+    margin: 0%auto;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: larger;
+    color: #EDE1FF;
 }
 
-ul {
-    font-size: medium;
+.ingredients {
+    display: block;
+    margin: 5px;
+    padding: 20px;
+    color: #6902F7;
+    font-size: larger;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
-    color: blue;
 }
 
-ol {
-    font-size: medium;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
-    color: blue;
+.steps {
+   margin: 5px;
+   padding: 20px;
+   color: #6902F7;
+   font-size: larger;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
